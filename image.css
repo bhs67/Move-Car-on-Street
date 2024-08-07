@@ -1,0 +1,11 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    /* px units are used for absolute values, while em is relative 
+        to the font size of the particular element */
+    #canvasContainer {
+        display: flex;
+        justify-content: center;
+        margin: 1.250em;
+      }
+}
